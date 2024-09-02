@@ -39,5 +39,6 @@ __pycache__/
 
 *.zip
 env
-.xlsx
-models/
+*.xlsx
+models/*
+.joblib
